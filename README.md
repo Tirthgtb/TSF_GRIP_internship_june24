@@ -4,8 +4,9 @@ The Sparks Foundation GRIP internship June 2024
 # Internship-Tasks
 This repository contains tasks completed as part of the Graduate Rotational Internship Program (GRIP) with The Sparks Foundation.
 
+
 # Task 1
-Prediction using Supervised ML
+Prediction using Supervised ML/n
 Objective: Predict the percentage of a student based on the number of study hours.
 Question: What will be the predicted score if a student studies for 9.25 hrs/day?
 Method: Simple linear regression as it involves just 2 variables.
